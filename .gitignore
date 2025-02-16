@@ -1,0 +1,4 @@
+__pycache__/
+FiBot_env/
+local_vector_db/
+*.pyc
